@@ -1,6 +1,7 @@
 # Computational-Linguistics
 Progetto di Linguistica Computazionale
 A.A. 2020/2021 Linee guida
+
 Obiettivo:
 realizzazione di due programmi scritti in Python che utilizzino i moduli presenti in Natural Language Toolkit per leggere due file di testo in inglese, annotarli linguisticamente, confrontarli sulla base degli indici statistici richiesti ed estrarne le informazioni richieste.
 Fasi realizzative:
