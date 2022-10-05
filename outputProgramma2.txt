@@ -1,0 +1,522 @@
+10 POS tag più frequenti per Biden:
+
+('NN', 599)
+('IN', 503)
+('DT', 416)
+('NNS', 317)
+('PRP', 310)
+(',', 288)
+('JJ', 272)
+('.', 257)
+('VB', 215)
+('RB', 209)
+
+10 POS tag più frequenti per Trump:
+
+('NN', 516)
+('IN', 445)
+('PRP', 409)
+('DT', 389)
+(',', 317)
+('RB', 279)
+('JJ', 275)
+('.', 259)
+('NNS', 245)
+('VB', 224)
+
+************
+
+I primi 20 sostantivi più frequenti di Biden:
+
+('people', 22)
+('America', 16)
+('today', 12)
+('world', 11)
+('infrastructure', 11)
+('days', 10)
+('country', 10)
+('plan', 8)
+('day', 8)
+('shots', 7)
+('Americans', 7)
+('year', 7)
+('families', 7)
+('Secretary', 7)
+('lot', 6)
+('%', 6)
+('jobs', 6)
+('American', 6)
+('years', 6)
+('tomorrow', 5)
+
+I primi 20 sostantivi più frequenti di Trump:
+
+('country', 20)
+('election', 15)
+('people', 14)
+('America', 10)
+('year', 10)
+('world', 10)
+('Americans', 9)
+('votes', 9)
+('law', 8)
+('nation', 8)
+('China', 8)
+('fraud', 7)
+('months', 7)
+('time', 7)
+('states', 7)
+('vote', 7)
+('state', 7)
+('Biden', 7)
+('thing', 7)
+('Supreme', 7)
+
+************
+
+I primi 20 verbi più frequenti di Biden:
+
+("'s", 42)
+('is', 40)
+('was', 29)
+('have', 27)
+('be', 26)
+('are', 23)
+("'ve", 13)
+('know', 13)
+('do', 12)
+("'re", 12)
+('want', 12)
+('going', 10)
+('were', 9)
+('been', 9)
+('make', 9)
+("'m", 8)
+('getting', 8)
+('get', 7)
+('take', 7)
+('put', 6)
+
+I primi 20 verbi più frequenti di Trump:
+
+('have', 59)
+("'s", 42)
+('is', 36)
+("'re", 27)
+('be', 23)
+('do', 23)
+('are', 23)
+('was', 20)
+('going', 20)
+('were', 19)
+('want', 17)
+("'ve", 17)
+('been', 16)
+('know', 14)
+('has', 13)
+('done', 12)
+('had', 12)
+('did', 10)
+('show', 9)
+("'m", 8)
+
+************
+
+I 20 bigrammi sostantivo-verbo più frequenti di Biden:
+
+((('country', 'NN'), ('is', 'VBZ')), 3)
+((('firearms', 'NNS'), ('trafficking', 'VBG')), 2)
+((('America', 'NNP'), ('is', 'VBZ')), 2)
+((('people', 'NNS'), ('are', 'VBP')), 2)
+((('methods', 'NNS'), ('have', 'VBP')), 1)
+((('people', 'NNS'), ('were', 'VBD')), 1)
+((('needs', 'NNS'), ('help', 'VBP')), 1)
+((('buyers', 'NNS'), ('are', 'VBP')), 1)
+((('staff', 'NN'), ('was', 'VBD')), 1)
+((('Compromise', 'NN'), ('is', 'VBZ')), 1)
+((('administration', 'NN'), ('is', 'VBZ')), 1)
+((('daughter', 'NN'), ('makes', 'VBZ')), 1)
+((('today', 'NN'), ('know', 'VBP')), 1)
+((('skills', 'NNS'), ('are', 'VBP')), 1)
+((('relief', 'NN'), ('arrives', 'VBZ')), 1)
+((('trains', 'NNS'), ('were', 'VBD')), 1)
+((('Debate', 'NN'), ('is', 'VBZ')), 1)
+((('children', 'NNS'), ('making', 'VBG')), 1)
+((('Highways', 'NNS'), ('were', 'VBD')), 1)
+((('Experts', 'NNS'), ('said', 'VBD')), 1)
+
+I 20 bigrammi sostantivo-verbo più frequenti di Trump:
+
+((('ballot', 'NN'), ('is', 'VBZ')), 2)
+((('seniors', 'NNS'), ('have', 'VBP')), 2)
+((('today', 'NN'), ('is', 'VBZ')), 2)
+((('records', 'NNS'), ('are', 'VBP')), 1)
+((('Capitol', 'NNP'), ('struck', 'VBD')), 1)
+((('nobody', 'NN'), ('thought', 'VBD')), 1)
+((('tunnel', 'NN'), ('is', 'VBZ')), 1)
+((('President', 'NNP'), ('owe', 'VBP')), 1)
+((('election', 'NN'), ('is', 'VBZ')), 1)
+((('products', 'NNS'), ('are', 'VBP')), 1)
+((('virus', 'NN'), ('arrived', 'VBD')), 1)
+((('legislatures', 'NNS'), ('involved', 'VBN')), 1)
+((('anybody', 'NN'), ('have', 'VB')), 1)
+((('rolls', 'NNS'), ('are', 'VBP')), 1)
+((('Biden', 'NNP'), ('put', 'VBD')), 1)
+((('world', 'NN'), ('is', 'VBZ')), 1)
+((('action', 'NN'), ('saved', 'VBD')), 1)
+((('violence', 'NN'), ('spiral', 'VBD')), 1)
+((('things', 'NNS'), ('happened', 'VBD')), 1)
+((('states', 'NNS'), ('were', 'VBD')), 1)
+
+************
+
+I 20 bigrammi aggettivo-sostantivo più frequenti di Biden:
+
+((('American', 'JJ'), ('people', 'NNS')), 4)
+((('traditional', 'JJ'), ('infrastructure', 'NN')), 3)
+((('Good', 'JJ'), ('afternoon', 'NN')), 2)
+((('serial', 'JJ'), ('numbers', 'NNS')), 2)
+((('gun', 'JJ'), ('violence', 'NN')), 2)
+((('new', 'JJ'), ('moment', 'NN')), 2)
+((('high-speed', 'JJ'), ('internet', 'NN')), 2)
+((('small', 'JJ'), ('business', 'NN')), 2)
+((('good', 'JJ'), ('jobs', 'NNS')), 2)
+((('American', 'JJ'), ('leadership', 'NN')), 2)
+((('many', 'JJ'), ('people', 'NNS')), 2)
+((('few', 'JJ'), ('weeks', 'NNS')), 2)
+((('high', 'JJ'), ('speed', 'NN')), 2)
+((('historic', 'JJ'), ('piece', 'NN')), 1)
+((('welcome', 'JJ'), ('news', 'NN')), 1)
+((('few', 'JJ'), ('days', 'NNS')), 1)
+((('American', 'JJ'), ('competitiveness', 'NN')), 1)
+((('Asian-American', 'JJ'), ('people', 'NNS')), 1)
+((('21st', 'JJ'), ('century', 'NN')), 1)
+((('life-saving', 'JJ'), ('vaccines', 'NNS')), 1)
+
+I 20 bigrammi aggettivo-sostantivo più frequenti di Trump:
+
+((('original', 'JJ'), ('list', 'NN')), 3)
+((('fellow', 'JJ'), ('Americans', 'NNPS')), 3)
+((('last', 'JJ'), ('week', 'NN')), 3)
+((('true', 'JJ'), ('supporter', 'NN')), 3)
+((('more', 'JJR'), ('years', 'NNS')), 3)
+((('important', 'JJ'), ('decision', 'NN')), 2)
+((('religious', 'JJ'), ('liberty', 'NN')), 2)
+((('strong', 'JJ'), ('immune', 'NN')), 2)
+((('long', 'JJ'), ('time', 'NN')), 2)
+((('single', 'JJ'), ('vote', 'NN')), 2)
+((('political', 'JJ'), ('violence', 'NN')), 2)
+((('federal', 'JJ'), ('judges', 'NNS')), 2)
+((('terrible', 'JJ'), ('thing', 'NN')), 2)
+((('equal', 'JJ'), ('treatment', 'NN')), 2)
+((('outstanding', 'JJ'), ('people', 'NNS')), 2)
+((('bigger', 'JJR'), ('victory', 'NN')), 2)
+((('senior', 'JJ'), ('citizens', 'NNS')), 2)
+((('constitutional', 'JJ'), ('process', 'NN')), 1)
+((('protective', 'JJ'), ('equipment', 'NN')), 1)
+((('more', 'JJR'), ('products', 'NNS')), 1)
+
+************
+Biden - 20 bigrammi con probabilità congiunta più alta:
+Bigramma:	Probabilità congiunta:
+('in', 'the') 0.004682410423452769
+('of', 'the') 0.003257328990228013
+('it', "'s") 0.0030537459283387623
+('to', 'be') 0.0026465798045602605
+('That', "'s") 0.0026465798045602605
+('the', 'world') 0.002239413680781759
+('to', 'the') 0.0018322475570032573
+('many', 'of') 0.0018322475570032573
+('I', "'m") 0.0016286644951140066
+('I', 'want') 0.0016286644951140066
+('of', 'you') 0.0016286644951140066
+('for', 'the') 0.0014250814332247557
+('on', 'the') 0.0014250814332247557
+('it', '.') 0.0014250814332247557
+('want', 'to') 0.0014250814332247557
+('and', 'the') 0.0014250814332247557
+('do', "n't") 0.0014250814332247557
+('It', "'s") 0.0014250814332247557
+('around', 'the') 0.0014250814332247557
+('million', 'shots') 0.0012214983713355048
+
+Biden - 20 bigrammi con probabilità condizionata più alta:
+Bigramma:	Probabilità condizionata:
+('the', 'world') 0.04336319218241042
+('the', 'next') 0.04336319218241042
+('the', 'first') 0.024778966961377383
+('to', 'make') 0.020765472312703582
+('to', 'be') 0.015574104234527687
+('the', 'American') 0.013693639636550658
+('a', 'lot') 0.01340255157437568
+('I', "'m") 0.013029315960912053
+('to', 'do') 0.010382736156351791
+('I', 'want') 0.008686210640608035
+('in', 'America') 0.008168770358306189
+('I', "'ve") 0.005011275369581559
+('in', 'this') 0.004950769914124963
+('of', 'you') 0.004367782055078472
+('of', 'our') 0.004003800217155266
+('in', 'people') 0.00396061593129997
+('in', 'our') 0.0036305646036916394
+('is', 'back') 0.003257328990228013
+('we', "'re") 0.003189467969598263
+('we', "'ve") 0.002944124279629166
+
+Biden - 20 bigrammi con LMI più alta:
+Bigramma:	LMI:
+('That', "'s") 82.61765524690159
+('it', "'s") 73.04666133887127
+('in', 'the') 53.11804448040477
+('to', 'be') 52.061191034807855
+('million', 'shots') 50.72843953987545
+('do', "n't") 50.137914202734855
+('I', "'m") 50.096758762961436
+('the', 'world') 49.80123747658775
+('I', 'want') 45.41705875719219
+('many', 'of') 44.679728670565446
+('this', 'country') 42.394185795400055
+('100', 'million') 39.99530219768193
+('Mr.', 'Secretary') 37.8189596932503
+('what', 'they') 34.462617226075885
+('It', "'s") 32.04317669768676
+('depends', 'on') 31.479109690365675
+('They', "'re") 30.708529378596094
+('want', 'to') 29.589695968097832
+('around', 'the') 29.15370602031743
+('what', 'it') 28.865302401227105
+
+Trump - 20 bigrammi con probabilità congiunta più alta:
+Bigramma:	Probabilità congiunta:
+('in', 'the') 0.0038578680203045683
+('of', 'the') 0.003248730964467005
+('going', 'to') 0.003248730964467005
+('it', "'s") 0.003248730964467005
+('want', 'to') 0.0028426395939086294
+('do', "n't") 0.0028426395939086294
+('we', "'re") 0.0028426395939086294
+('our', 'country') 0.0026395939086294416
+('country', '.') 0.0026395939086294416
+('to', 'be') 0.002233502538071066
+('and', 'we') 0.002233502538071066
+("'ve", 'done') 0.0020304568527918783
+('it', '.') 0.0018274111675126903
+('on', 'the') 0.0018274111675126903
+('to', 'have') 0.0018274111675126903
+("'re", 'going') 0.0018274111675126903
+("'s", 'a') 0.0018274111675126903
+('the', 'world') 0.0018274111675126903
+('we', 'have') 0.0016243654822335025
+('they', 'were') 0.0016243654822335025
+
+Trump - 20 bigrammi con probabilità condizionata più alta:
+Bigramma:	Probabilità condizionata:
+('the', 'United') 0.03370558375634518
+('the', 'world') 0.030335025380710662
+('to', 'win') 0.028223350253807105
+('to', 'show') 0.02195149464184997
+('the', 'most') 0.019260333575054387
+('I', 'am') 0.015634517766497463
+('I', "'m") 0.015634517766497463
+('a', 'lot') 0.015228426395939087
+('to', 'be') 0.013498124034429486
+('I', 'think') 0.012160180485053582
+('the', 'right') 0.01037094884810621
+('we', 'got') 0.01015228426395939
+('of', 'law') 0.010050761421319797
+("'s", 'happening') 0.009258883248730965
+('the', 'election') 0.008988155668358713
+('to', 'vote') 0.0080638143582306
+('we', "'re") 0.007896221094190636
+('the', 'country') 0.006741116751269036
+('our', 'great') 0.006362098138747885
+('we', "'ve") 0.006270528515974918
+
+Trump - 20 bigrammi con LMI più alta:
+Bigramma:	LMI:
+('do', "n't") 94.39284474443723
+('our', 'country') 79.1678001504935
+("'ve", 'done') 79.15410762146968
+('going', 'to') 77.2006214659237
+('we', "'re") 71.25379434081098
+('it', "'s") 70.2179820113265
+('want', 'to') 68.13602624240801
+('Supreme', 'Court') 66.20987161021448
+('in', 'the') 63.79129117825894
+("'re", 'going') 57.23115672260324
+('United', 'States') 49.7198995717187
+('I', "'m") 47.9929717482896
+('country', '.') 47.89743010541775
+('to', 'be') 44.91120258996666
+('they', 'were') 44.20901919566273
+("n't", 'want') 43.24911617586533
+('the', 'world') 42.64978935995213
+('if', 'you') 41.20137600661746
+('I', 'think') 39.45585972406044
+('Joe', 'Biden') 37.83421234869399
+
+************
+Biden:
+
+Frasi con probabilità maggiore:
+
+Frase con lunghezza 8:
+("So I know what it's like.", 4.277523169472231e-21)
+
+Frase con lunghezza 9:
+('Gun violence in this country is an epidemic.', 2.6656359269038668e-24)
+
+Frase con lunghezza 10:
+("That's what infrastructure means in the 21st century.", 6.213120670167683e-27)
+
+Frase con lunghezza 11:
+('It will cut child poverty in half in this country.', 6.619383014054552e-30)
+
+Frase con lunghezza 12:
+("Mr. Secretary, it's great to be here with you.", 5.4618675530365514e-31)
+
+Frase con lunghezza 13:
+("We don't just fix for today, we build for tomorrow.", 3.145975576578417e-35)
+
+Frase con lunghezza 14:
+('And so, is the message I want the world to hear today.', 1.6571968099350274e-37)
+
+Frase con lunghezza 15:
+("I'm happy to have that debate but let me tell you my view.", 1.5733919614935357e-41)
+
+Trump:
+
+Frasi con probabilità maggiore:
+
+Frase con lunghezza 8:
+("We're not going to show panic.", 2.46568134742137e-19)
+
+Frase con lunghezza 9:
+("We're going to have a bigger victory.", 3.1763298076073976e-21)
+
+Frase con lunghezza 10:
+("We don't want to have to show panic.", 5.99225606080138e-23)
+
+Frase con lunghezza 11:
+("No, we're going to have a big victory.", 5.160192747087015e-26)
+
+Frase con lunghezza 12:
+("We're talking about numbers like nobody has ever seen before.", 5.785044350312544e-32)
+
+Frase con lunghezza 13:
+("Look, we're not going to have to worry about it.", 3.430609578309557e-32)
+
+Frase con lunghezza 14:
+("I love our country and I don't want people to be frightened.", 7.915950501041111e-34)
+
+Frase con lunghezza 15:
+('Next year will be the greatest economic year in the history of our country.', 4.9137315512115856e-39)
+
+**********
+
+Biden:
+
+Entità nominate usate:
+Nomi di persona usati: 
+
+[(('Mr.', 'NNP'), 4), (('Secretary', 'NNP'), 3), (('Jill', 'NNP'), 2), (('Mark', 'NNP'), 2), (('Jackie', 'NNP'), 2), (('Daniel', 'NNP'), 2), (('Austin', 'NNP'), 2), (('Benjamin', 'NNP'), 2), (('Franklin', 'NNP'), 2), (('Experts', 'NNS'), 1), (('Jeff', 'NNP'), 1), (('Zients', 'NNP'), 1), (('Moody', 'NNP'), 1), (('Look', 'NNP'), 1), (('Obama', 'NNP'), 1), (('John', 'NNP'), 1), (('Holy', 'NNP'), 1), (('Week', 'NNP'), 1), (('Pope', 'NNP'), 1), (('Francis', 'NNP'), 1), (('Happy', 'JJ'), 1), (('Easter', 'NNP'), 1), (('Fred', 'NNP'), 1), (('Gutenberg', 'NNP'), 1), (('Jamie', 'NNP'), 1), (('Brandon', 'NNP'), 1), (('Wolfe', 'NNP'), 1), (('Greg', 'NNP'), 1), (('Jackson', 'NNP'), 1), (('God', 'NNP'), 1), (('Tobacco', 'NNP'), 1), (('Firearms', 'NNP'), 1), (('Debate', 'NN'), 1), (('Black', 'NNP'), 1), (('Gulf', 'NNP'), 1), (('Coast', 'NNP'), 1), (('Beau', 'NNP'), 1), (('Tony', 'NNP'), 1), (('Blinken', 'NNP'), 1), (('Diplomacy', 'NN'), 1)]
+
+Nomi di luogo usati:
+
+[(('America', 'NNP'), 16), (('American', 'JJ'), 12), (('American', 'NNP'), 4), (('Americans', 'NNPS'), 2), (('Flint', 'NNP'), 2), (('Defense', 'NNP'), 2), (('Chief', 'NNP'), 2), (('United', 'NNP'), 2), (('Berma', 'NNP'), 2), (('Child', 'NNP'), 1), (('God', 'NNP'), 1), (('South', 'NNP'), 1), (('Carolina', 'NNP'), 1), (('Sandy', 'NNP'), 1), (('Enough', 'NNP'), 1), (('Georgia', 'NNP'), 1), (('Colorado', 'NNP'), 1), (('Alcohol', 'NNP'), 1), (('Latino', 'NNP'), 1), (('Asian', 'JJ'), 1), (('Iowa', 'NNP'), 1), (('New', 'NNP'), 1), (('Jersey', 'NNP'), 1), (('Saudi', 'NNP'), 1), (('Loujain', 'NNP'), 1), (('Burma', 'NNP'), 1), (('Iraq', 'NNP'), 1), (('China', 'NNP'), 1), (('States', 'NNPS'), 1), (('Russia', 'NNP'), 1)]
+
+Nomi di organizzazioni usate:
+
+[(('Department', 'NNP'), 5), (('Plan', 'NNP'), 3), (('Second', 'NNP'), 3), (('Rescue', 'NNP'), 2), (('American', 'NNP'), 2), (('Act', 'NNP'), 2), (('Democrats', 'NNPS'), 2), (('Republican', 'JJ'), 2), (('VA', 'NNP'), 2), (('American', 'JJ'), 1), (('Recovery', 'NNP'), 1), (('Great', 'NNP'), 1), (('Recession', 'NNP'), 1), (('Gospel', 'NNP'), 1), (('Lord', 'NNP'), 1), (('Amendment', 'NNP'), 1), (('Constitution', 'NNP'), 1), (('Pulse', 'NNP'), 1), (('Nightclub', 'NNP'), 1), (('Congresswoman', 'NNP'), 1), (('Gabby', 'NNP'), 1), (('Gifford', 'NNP'), 1), (('Congress', 'NNP'), 1), (('Gun', 'NNP'), 1), (('Control', 'NNP'), 1), (('Bureau', 'NNP'), 1), (('Senate', 'NNP'), 1), (('Justice', 'NNP'), 1), (('Jobs', 'NNP'), 1), (('Compromise', 'NN'), 1), (('Native', 'NNP'), 1), (('Americans', 'NNPS'), 1), (('Medicaid', 'NNP'), 1), (('Armed', 'NNP'), 1), (('Forces', 'NNPS'), 1), (('Defense', 'NNP'), 1), (('Commander', 'NNP'), 1), (('State', 'NNP'), 1), (('Penn', 'NNP'), 1), (('McConnell', 'NNP'), 1)]
+
+15 nomi propri di persona più usati:
+frequenza:	 nome:
+4 		 Mr.
+3 		 Secretary
+2 		 Jill
+2 		 Mark
+2 		 Jackie
+2 		 Daniel
+2 		 Austin
+2 		 Benjamin
+2 		 Franklin
+1 		 Experts
+1 		 Jeff
+1 		 Zients
+1 		 Moody
+1 		 Look
+1 		 Obama
+
+15 nomi propri di luogo più usati:
+frequenza:	 nome:
+16 		 America
+12 		 American
+4 		 American
+2 		 Americans
+2 		 Flint
+2 		 Defense
+2 		 Chief
+2 		 United
+2 		 Berma
+1 		 Child
+1 		 God
+1 		 South
+1 		 Carolina
+1 		 Sandy
+1 		 Enough
+
+
+Trump:
+
+Entità nominate usate:
+
+Nomi di persona usati: 
+
+[(('Biden', 'NNP'), 6), (('Joe', 'NNP'), 4), (('Wisconsin', 'NNP'), 3), (('Hello', 'NNP'), 2), (('Alex', 'NNP'), 2), (('Thomas', 'NNP'), 2), (('Woodward', 'NNP'), 2), (('Milwaukee', 'NNP'), 1), (('Nevada', 'NNP'), 1), (('Minnesota', 'NNP'), 1), (('Michigan', 'NNP'), 1), (('Obama', 'NNP'), 1), (('Bernie', 'NNP'), 1), (('Look', 'NNP'), 1), (('Regeneron', 'NNP'), 1), (('Eli', 'NNP'), 1), (('Lilly', 'NNP'), 1), (('Azar', 'NNP'), 1), (('Neil', 'NNP'), 1), (('Gorsuch', 'NNP'), 1), (('Brett', 'NNP'), 1), (('Kavanaugh', 'NNP'), 1), (('Bill', 'NNP'), 1), (('Pryor', 'NNP'), 1), (('Amy', 'NNP'), 1), (('Coney', 'NNP'), 1), (('Barrett', 'NNP'), 1), (('Hardiman', 'NNP'), 1), (('Clarence', 'NNP'), 1), (('Samuel', 'NNP'), 1), (('Aledo', 'NNP'), 1), (('God', 'NNP'), 1), (('Does', 'NNP'), 1), (('Okay', 'NNP'), 1), (('Please', 'NNP'), 1), (('Well', 'NNP'), 1)]
+
+Nomi di luogo usati:
+
+[(('America', 'NNP'), 9), (('China', 'NNP'), 8), (('American', 'JJ'), 7), (('United', 'NNP'), 5), (('States', 'NNPS'), 5), (('Florida', 'NNP'), 5), (('Kamala', 'NNP'), 3), (('American', 'NNP'), 3), (('Americans', 'NNPS'), 2), (('Washington', 'NNP'), 2), (('Wisconsin', 'NNP'), 2), (('D.C.', 'NNP'), 1), (('Detroit', 'NNP'), 1), (('Atlanta', 'NNP'), 1), (('Democrat', 'NNP'), 1), (('California', 'NNP'), 1), (('Michigan', 'NNP'), 1), (('Elections', 'NNP'), 1), (('Allegiance', 'NNP'), 1), (('Europe', 'NNP'), 1), (('Wuhan', 'NNP'), 1)]
+
+Nomi di organizzazioni usate:
+
+[(('Supreme', 'NNP'), 7), (('Court', 'NNP'), 7), (('US', 'NNP'), 2), (('Capitol', 'NNP'), 2), (('Democrats', 'NNPS'), 2), (('Congress', 'NNP'), 2), (('Justice', 'NNP'), 2), (('Scalia', 'NNP'), 2), (('Republic', 'NNP'), 1), (('America', 'NNP'), 1), (('Great', 'NNP'), 1), (('Again', 'NNP'), 1), (('Republican', 'JJ'), 1), (('Secret', 'NNP'), 1), (('Service', 'NNP'), 1), (('National', 'NNP'), 1), (('Guard', 'NNP'), 1), (('Democrat', 'NNP'), 1), (('Board', 'NNP'), 1), (('Republican', 'NNP'), 1), (('USA', 'NNP'), 1), (('Fort', 'NNP'), 1), (('Myers', 'NNP'), 1), (('FDA', 'NNP'), 1), (('HHS', 'NNP'), 1), (('Senate', 'NNP'), 1), (('Second', 'NNP'), 1), (('Amendment', 'NNP'), 1), (('Justices', 'NNPS'), 1), (('Antonin', 'NNP'), 1)]
+
+
+15 nomi propri di persona più usati:
+frequenza:	 nome:
+6 		 Biden
+4 		 Joe
+3 		 Wisconsin
+2 		 Hello
+2 		 Alex
+2 		 Thomas
+2 		 Woodward
+1 		 Milwaukee
+1 		 Nevada
+1 		 Minnesota
+1 		 Michigan
+1 		 Obama
+1 		 Bernie
+1 		 Look
+1 		 Regeneron
+
+15 nomi propri di luogo più usati:
+frequenza:	 nome:
+9 		 America
+8 		 China
+7 		 American
+5 		 United
+5 		 States
+5 		 Florida
+3 		 Kamala
+3 		 American
+2 		 Americans
+2 		 Washington
+2 		 Wisconsin
+1 		 D.C.
+1 		 Detroit
+1 		 Atlanta
+1 		 Democrat
+
+**********
